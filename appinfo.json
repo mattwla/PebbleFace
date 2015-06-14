@@ -1,0 +1,30 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "mattlarrabee@gmail.com",
+    "longName": "Pi Challenge",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/PI2.png",
+                "menuIcon": true,
+                "name": "PI",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Pi Challenge",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "665f0d8c-82ca-4a3d-84ab-fca3844f22fa",
+    "versionLabel": "3.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
